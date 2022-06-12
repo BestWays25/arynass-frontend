@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arynass-frontend/static/css/main.a9fa1159.css",
-    "main.js": "/arynass-frontend/static/js/main.58c203e1.js",
+    "main.css": "/arynass-frontend/static/css/main.fbb018db.css",
+    "main.js": "/arynass-frontend/static/js/main.591aa9a2.js",
     "static/js/787.63a9c5d5.chunk.js": "/arynass-frontend/static/js/787.63a9c5d5.chunk.js",
     "static/media/imgh1.png": "/arynass-frontend/static/media/imgh1.dded6f825a33983ce7a0.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -16,12 +16,12 @@
     "static/media/logo2.png": "/arynass-frontend/static/media/logo2.b20d392172dbba09ddb6.png",
     "static/media/profile.jpg": "/arynass-frontend/static/media/profile.6defe2ba6e96e7bad5b4.jpg",
     "index.html": "/arynass-frontend/index.html",
-    "main.a9fa1159.css.map": "/arynass-frontend/static/css/main.a9fa1159.css.map",
-    "main.58c203e1.js.map": "/arynass-frontend/static/js/main.58c203e1.js.map",
+    "main.fbb018db.css.map": "/arynass-frontend/static/css/main.fbb018db.css.map",
+    "main.591aa9a2.js.map": "/arynass-frontend/static/js/main.591aa9a2.js.map",
     "787.63a9c5d5.chunk.js.map": "/arynass-frontend/static/js/787.63a9c5d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9fa1159.css",
-    "static/js/main.58c203e1.js"
+    "static/css/main.fbb018db.css",
+    "static/js/main.591aa9a2.js"
   ]
 }
