@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arynass-frontend/static/css/main.2a87a9d7.css",
-    "main.js": "/arynass-frontend/static/js/main.9b53d81c.js",
+    "main.css": "/arynass-frontend/static/css/main.e8fa140e.css",
+    "main.js": "/arynass-frontend/static/js/main.97a97c63.js",
     "static/js/787.63a9c5d5.chunk.js": "/arynass-frontend/static/js/787.63a9c5d5.chunk.js",
     "static/media/imgh1.png": "/arynass-frontend/static/media/imgh1.dded6f825a33983ce7a0.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -17,12 +17,12 @@
     "static/media/arynasslogo.png": "/arynass-frontend/static/media/arynasslogo.a17c56e4c5b04d2811c1.png",
     "static/media/profile.jpg": "/arynass-frontend/static/media/profile.6defe2ba6e96e7bad5b4.jpg",
     "index.html": "/arynass-frontend/index.html",
-    "main.2a87a9d7.css.map": "/arynass-frontend/static/css/main.2a87a9d7.css.map",
-    "main.9b53d81c.js.map": "/arynass-frontend/static/js/main.9b53d81c.js.map",
+    "main.e8fa140e.css.map": "/arynass-frontend/static/css/main.e8fa140e.css.map",
+    "main.97a97c63.js.map": "/arynass-frontend/static/js/main.97a97c63.js.map",
     "787.63a9c5d5.chunk.js.map": "/arynass-frontend/static/js/787.63a9c5d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a87a9d7.css",
-    "static/js/main.9b53d81c.js"
+    "static/css/main.e8fa140e.css",
+    "static/js/main.97a97c63.js"
   ]
 }
