@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/arynass-frontend/static/css/main.ad693f92.css",
-    "main.js": "/arynass-frontend/static/js/main.63dc7251.js",
-    "static/js/27.3200dd0d.chunk.js": "/arynass-frontend/static/js/27.3200dd0d.chunk.js",
-    "static/media/imgh1.png": "/arynass-frontend/static/media/imgh1.dded6f825a33983ce7a0.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/bg2.png": "/arynass-frontend/static/media/bg2.f33e63feffa8a4d0343a.png",
-    "static/media/logo.png": "/arynass-frontend/static/media/logo.79a4a47fc4722f0cd497.png",
-    "static/media/imgh2.png": "/arynass-frontend/static/media/imgh2.c44414a70169e765ae13.png",
-    "static/media/fontawesome-webfont.eot": "/arynass-frontend/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/frontpro1.jpeg": "/arynass-frontend/static/media/frontpro1.d5a851dac120805c98d1.jpeg",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/arynass-frontend/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/logo2.png": "/arynass-frontend/static/media/logo2.b20d392172dbba09ddb6.png",
-    "static/media/arynasslogo.png": "/arynass-frontend/static/media/arynasslogo.a17c56e4c5b04d2811c1.png",
-    "static/media/profile.jpg": "/arynass-frontend/static/media/profile.6defe2ba6e96e7bad5b4.jpg",
-    "index.html": "/arynass-frontend/index.html"
+    "main.css": "/static/css/main.debffdcc.css",
+    "main.js": "/static/js/main.001657dd.js",
+    "static/js/27.3200dd0d.chunk.js": "/static/js/27.3200dd0d.chunk.js",
+    "static/media/imgh1.png": "/static/media/imgh1.dded6f825a33983ce7a0.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bg2.png": "/static/media/bg2.f33e63feffa8a4d0343a.png",
+    "static/media/logo.png": "/static/media/logo.79a4a47fc4722f0cd497.png",
+    "static/media/imgh2.png": "/static/media/imgh2.c44414a70169e765ae13.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/frontpro1.jpeg": "/static/media/frontpro1.d5a851dac120805c98d1.jpeg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo2.png": "/static/media/logo2.b20d392172dbba09ddb6.png",
+    "static/media/arynasslogo.png": "/static/media/arynasslogo.a17c56e4c5b04d2811c1.png",
+    "static/media/profile.jpg": "/static/media/profile.6defe2ba6e96e7bad5b4.jpg",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ad693f92.css",
-    "static/js/main.63dc7251.js"
+    "static/css/main.debffdcc.css",
+    "static/js/main.001657dd.js"
   ]
 }
