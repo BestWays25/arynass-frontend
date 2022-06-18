@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.debffdcc.css",
-    "main.js": "/static/js/main.001657dd.js",
+    "main.js": "/static/js/main.b2e8aedf.js",
     "static/js/27.3200dd0d.chunk.js": "/static/js/27.3200dd0d.chunk.js",
     "static/media/imgh1.png": "/static/media/imgh1.dded6f825a33983ce7a0.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.debffdcc.css",
-    "static/js/main.001657dd.js"
+    "static/js/main.b2e8aedf.js"
   ]
 }
